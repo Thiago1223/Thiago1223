@@ -2,7 +2,7 @@
 
 - 🔭 Estudando em SENAI JANDIRA
 - 🌱 Aprendendo back-end e front-end
-- 👯 Mais voltado para Java, CSS e HTML
+- 💰 Mais voltado para Java, JavaScript, CSS e HTML
 - 🤔 Contate-me no email: tifreitas10@gmail.com
 
 <div align="center">
