@@ -1,8 +1,8 @@
 ### Olá! Eu me chamo Thiago Freitas
 
-- 🔭 Estudando em SENAI JANDIRA
+- 🔭 Formado pelo SENAI JANDIRA
 - 🌱 Aprendendo back-end e front-end
-- 💰 Mais voltado para Java, JavaScript, CSS e HTML
+- 💰 Mais voltado para Java, Python, JavaScript, CSS e HTML
 - 🤔 Contate-me no email: tifreitas10@gmail.com
 
 <div align="center">
@@ -17,6 +17,7 @@
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
   
 ##
