@@ -30,9 +30,9 @@ Atualmente, venho direcionando minha formação e meus projetos para o desenvolv
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Power BI" height="30" width="40" src="https://cdn.simpleicons.org/powerbi" />
-  <img align="center" alt="Power Apps" height="30" width="40" src="https://cdn.simpleicons.org/powerapps" />
-  <img align="center" alt="Power Automate" height="30" width="40" src="https://cdn.simpleicons.org/powerautomate" />
+  <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
+  <img align="center" alt="Power Apps" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Apps.svg">
+  <img align="center" alt="Power Automate" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Automate.svg">
   <img align="center" alt="Databricks" height="30" width="40" src="https://cdn.simpleicons.org/databricks" />
 </div>
 
